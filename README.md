@@ -50,11 +50,17 @@ Supports multi-document reasoning, memory, and multiple learning modes (strict, 
 
 ## Project Structure
 AIENGINEER/
+
 │
+
 ├── app.py # Streamlit UI
+
 ├── rag_core.py # Core RAG logic
+
 ├── rag_data/ # Stored embeddings (.pkl)
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -62,6 +68,7 @@ AIENGINEER/
 
 ### 1. Clone repository
 git clone https://github.com/YOUR_USERNAME/ai-study-companion.git
+
 cd ai-study-companion
 
 ### 2. Install dependencies
