@@ -1,0 +1,5 @@
+streamlit
+ollama
+numpy
+faiss-cpu
+pdfplumber
