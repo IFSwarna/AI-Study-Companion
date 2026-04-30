@@ -69,7 +69,6 @@ pip install -r requirements.txt
 
 ### 3. Install & run Ollama
 Make sure you have:
-- :contentReference[oaicite:0]{index=0}
 - Model: `mistral:7b`
 - Embedding model: `nomic-embed-text`
 
