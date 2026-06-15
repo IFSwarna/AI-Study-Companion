@@ -67,7 +67,7 @@ AIENGINEER/
 ## Installation
 
 ### 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/ai-study-companion.git
+git clone https://github.com/IFSwarna/ai-study-companion.git
 
 cd ai-study-companion
 
